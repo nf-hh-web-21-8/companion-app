@@ -1,0 +1,8 @@
+/**
+unsere Variablen-Konvention:
+block-element--modifier
+**/
+
+:root {
+	--black-light-100: #123456;
+}
