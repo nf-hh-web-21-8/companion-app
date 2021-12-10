@@ -1,0 +1,21 @@
+
+:root {
+--medium-grey: #E0E4E8;
+}
+
+
+svg {
+    width: 24px;
+    height: 24px;
+}
+
+.unchecked {
+    color: var(--medium-grey);
+    fill: var(--medium-grey);
+}
+
+
+.checked {
+    color: var(--denim-100);
+}
+
